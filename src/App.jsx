@@ -1,17 +1,5 @@
-
-import './App.css'
-
-function App() {
-
-
-  return (
-    <>
-  
-      <h1>Vite + React</h1>
-     
-      
-    </>
-  )
+function App(){
+  return <div>Hello World...</div>;
 }
 
-export default App
+export default App;
